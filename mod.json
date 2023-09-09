@@ -1,9 +1,0 @@
-{
-  "name": "unlock-hiddencontent",
-  "displayName": "UnlockHiddenContent",
-  "author": "jik",
-  "description": "Use to automatically unlock hidden content",
-  "version": "1.1",
-  "hidden": false,
-  "minGameVersion": 140
-}
